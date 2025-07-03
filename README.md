@@ -18,13 +18,9 @@ This repository contains my hands-on learning and practice using **Seaborn**, a 
   - **Count Plots** (`sns.countplot`)
   - **Bar Charts** (`sns.barplot`)
   - **Distribution Plots** (`sns.displot`, `sns.histplot`)
-  - **Box Plots** (`sns.boxplot`)
-  - **Violin Plots** (`sns.violinplot`)
-  - **Pair Plots** (`sns.pairplot`)
   - **Heatmaps** for correlation matrices (`sns.heatmap`)
 - ✅ Analyzing numerical and categorical features
-- ✅ Using color encoding (`hue`, `palette`, `style`)
-- ✅ Handling missing values and preparing data for visualization
+- ✅ Using color encoding (`hue`, `style`)
 
 ---
 
